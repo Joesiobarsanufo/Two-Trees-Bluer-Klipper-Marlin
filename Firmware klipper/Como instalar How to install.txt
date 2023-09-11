@@ -1,0 +1,10 @@
+Como instalar:
+1- Passe o arquivo para o cartão de memória "Robin_nano35.bin" (Não renomear esse arquivo).
+2- Insira o cartão na impressora e ligue ela.
+3- Com o firmware instalado sua impressora não vai funcionar mais a tela (Fica em "Booting").
+
+How to install:
+1- Pass the file to the memory card "Robin_nano35.bin" (Do not rename this file).
+2- Insert the card into the printer and turn it on.
+3- With the firmware installed, your printer will no longer work on the screen (it stays in "Booting").
+
